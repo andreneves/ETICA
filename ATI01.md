@@ -1,4 +1,4 @@
-O que é bullying, extraído de site da ONU
+## O que é bullying, extraído de site da ONU
 
 Um(a) aluno(a) sofre bullying quando é exposto(a), repetidamente e por certo tempo, a comportamentos agressivos que, intencionalmente, causam danos ou incômodos por meio de contato físico, ataques verbais, brigas ou manipulação psicológica. O bullying envolve um desequilíbrio de poder e pode incluir provocações, insultos, uso de apelidos que ofendem, violência física ou exclusão social. Um bully (valentão ou valentona), aquele que comete bullying, pode ser uma pessoa ou um grupo.
 
